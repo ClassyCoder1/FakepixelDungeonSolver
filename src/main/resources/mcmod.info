@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FDH",
+  "name": "FakepixelDungeonHelper ",
+  "description": "Added minimap overlay! ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://discord.gg/fakepixel",
+  "updateUrl": "",
+  "authorList": ["Hamza,BrokenHearts"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

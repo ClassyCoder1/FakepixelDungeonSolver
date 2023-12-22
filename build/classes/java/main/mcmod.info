@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FDH",
+  "name": "FakepixelDungeonHelper ",
+  "description": "There is a secret waypoint to dungeon secrets, it also not have some rooms secrets. ",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "https://discord.gg/fakepixel",
+  "updateUrl": "",
+  "authorList": ["Hamza,BrokenHearts"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,17 @@
+Symbol range map extraction starting
+Processing 15 files
+processing io\github\quantizr\DungeonRooms.java
+processing io\github\quantizr\asm\FMLLoadingPlugin.java
+processing io\github\quantizr\commands\DungeonRoomCommand.java
+processing io\github\quantizr\core\AutoRoom.java
+processing io\github\quantizr\core\Waypoints.java
+processing io\github\quantizr\events\PacketEvent.java
+processing io\github\quantizr\gui\LinkGUI.java
+processing io\github\quantizr\gui\WaypointsGUI.java
+processing io\github\quantizr\handlers\ConfigHandler.java
+processing io\github\quantizr\handlers\OpenLink.java
+processing io\github\quantizr\handlers\ScoreboardHandler.java
+processing io\github\quantizr\handlers\TextRenderer.java
+processing io\github\quantizr\mixins\MixinNetworkManager.java
+processing io\github\quantizr\utils\Utils.java
+processing io\github\quantizr\utils\WaypointUtils.java
