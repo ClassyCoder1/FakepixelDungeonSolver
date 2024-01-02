@@ -1,4 +1,4 @@
-# FakepixelDungeonHelper Mod
+# Dungeon Rooms Mod
 
 <p align="center">
   <a href="https://github.com/ArmanKhanDev/FakepixelDungeonHelper/releases/latest" target="_blank">
@@ -11,7 +11,7 @@
     <img alt="downloads" src="https://img.shields.io/github/downloads/Quantizr/DungeonRoomsMod/total?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://discord.gg/tNmwvuP8T5" target="_blank">
-    <img alt="discord" src="https://img.shields.io/discord/804143990869590066?color=%239f00ff&label=Discord&style=for-the-badge" />
+    <img alt="discord" src="https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Short answer: This mod follows the general interpretation of fakepixel's rules, 
 
 
 ### Discord:
-[![Discord](https://img.shields.io/discord/804143990869590066?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/tNmwvuP8T5)
+[![Discord](https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/tNmwvuP8T5)
 
 
 ### Hotkeys:
