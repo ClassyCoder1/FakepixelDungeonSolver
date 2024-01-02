@@ -1,14 +1,14 @@
-# Dungeon Rooms Mod
+# FakepixelDungeonHelper Mod
 
 <p align="center">
   <a href="https://github.com/ArmanKhanDev/FakepixelDungeonHelper/releases/latest" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/Quantizr/DungeonRoomsMod?color=%239f00ff&style=for-the-badge" />
+    <img alt="version" src="https://img.shields.io/github/v/release/ArmanKhanDev/FakepixelDungeonHelper?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html" target="_blank">
     <img alt="mcversion" src="https://img.shields.io/badge/MC%20Version-1.8.9-blue?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://github.com/ArmanKhanDev/FakepixelDungeonHelper/releases/latest" target="_blank">
-    <img alt="downloads" src="https://img.shields.io/github/downloads/Quantizr/DungeonRoomsMod/total?color=%239f00ff&style=for-the-badge" />
+    <img alt="downloads" src="https://img.shields.io/github/downloads/ArmanKhanDev/FakepixelDungeonHelper/total?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://discord.gg/tNmwvuP8T5" target="_blank">
     <img alt="discord" src="https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge" />
