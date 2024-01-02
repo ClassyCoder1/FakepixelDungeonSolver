@@ -1,4 +1,4 @@
-# Dungeon Rooms Mod
+# FakepixelDungeonHelper Mod
 
 <p align="center">
   <a href="https://github.com/ArmanKhanDev/FakepixelDungeonHelper/releases/latest" target="_blank">
