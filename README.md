@@ -38,11 +38,11 @@ Short answer: This mod follows the general interpretation of fakepixel's rules, 
 (Configurable in Controls Menu)
  - P - Opens Secret Waypoints configuration GUI
  - O - Opens images of secret locations (beta)
- - /dsm - Open gui for controlling puzzles and terminal solver
+ - /fdh - Open gui for controlling puzzles and terminal solver
  
 ### Commands:
  - /room help - Show command list
- - /dsm help - Show command list
+ - /fdh help - Show command list
  
 ### Credits:
 Big thanks to the respective authors of Danker's Skyblock Mod and DungeonRooms for various pieces of code used in this mod.
