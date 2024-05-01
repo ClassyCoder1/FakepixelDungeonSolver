@@ -1,17 +1,10 @@
-# FakepixelDungeonHelper Mod
+# FakepixelDungeonSolver Mod
 
 <p align="center">
-  <a href="https://github.com/ArmanKhanDev/FakepixelDungeonHelper/releases/tag/2.1.0" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/ArmanKhanDev/FakepixelDungeonHelper?color=%239f00ff&style=for-the-badge" />
+  <a href="The mod has not released yet." target="_blank">
   </a>
   <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html" target="_blank">
     <img alt="mcversion" src="https://img.shields.io/badge/MC%20Version-1.8.9-blue?color=%239f00ff&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ArmanKhanDev/FakepixelDungeonHelper/releases/tag/2.1.0" target="_blank">
-    <img alt="downloads" src="https://img.shields.io/github/downloads/ArmanKhanDev/FakepixelDungeonHelper/total?color=%239f00ff&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/tNmwvuP8T5" target="_blank">
-    <img alt="discord" src="https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge" />
   </a>
 </p>
 
@@ -29,9 +22,6 @@ Short answer: This mod follows the general interpretation of fakepixel's rules, 
 
 
 
-
-### Discord:
-[![Discord](https://img.shields.io/discord/1185627753136001034?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/tNmwvuP8T5)
 
 
 ### Hotkeys:
